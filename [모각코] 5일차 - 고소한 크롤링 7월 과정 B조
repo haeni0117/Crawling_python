@@ -1,0 +1,80 @@
+> **코뮤니티 모각코, 고소한 크롤링!
+✨ 5일차 ✨ 배송지: 선택자**
+
+## 📌 선택자는 일종의 주소?
+
+오늘은 선택자와 함께하는 좀 더 정확한 데이터와 태그 찾기를 해보겠습니다.
+
+✅ **오늘 배울 내용**
+
+- 선택자
+- 선택자를 사용해야 하는 이유
+- 선택자 사용해보기
+- 다양한 선택자
+
+**✅ 고소한 크롤링 #5. 선택자**
+
+👉 [https://cafe.naver.com/codeuniv/11442](https://cafe.naver.com/codeuniv/11442)
+
+---
+
+## 🎯 오늘의 인증 미션 (다음날 AM 9:59까지)
+
+✅ **오늘의 출석 미션**
+
+👉 **여러분의 최애 간식 사진**을 캡쳐하여 **[출석] 공부인증방**에 공부 인증과 함께 올려주세요.
+
+🚨 게시글을 올릴 때는 반드시 **게시판 이름(커리큘럼)**을 확인해주세요. 
+
+여러분은 간식을 즐겨드시나요?
+
+좋아하는 간식이나 군것질이 있다면 알려주세요!
+
+추천하는 간식도 좋습니다.
+
+저는 당 떨어질 때마다 달달한 걸 찾게 되네요.. 그 중 최고는 말랑카우입니다🙌
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5fda7332-2b10-406f-8866-4ef1abad5013/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5fda7332-2b10-406f-8866-4ef1abad5013/Untitled.png)
+
+## 🎯 오늘의 문제
+
+여러분의 **코드**와 **실행결과**를 **[출석] 공부인증** 게시판에 올려주세요.
+
+**코드를 올릴 때는 `소스코드` 로 올려야 코드리뷰를 받을 수 있습니다.** 
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/117e2e28-601b-4371-a02c-1b37c21b99fd/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/117e2e28-601b-4371-a02c-1b37c21b99fd/Untitled.png)
+
+- 캡쳐로 올릴 경우 코드 리뷰 대상에서 제외됩니다.
+- **게시글 작성 시 상단 탭 > 소스코드** 를 누르면 예쁘게 소스코드를 넣을 수 있어요.
+
+🚨 게시글을 올릴 때는 반드시 **게시판 이름(커리큘럼)**을 확인해주세요. 
+
+✅ **오늘의 문제 : HTML 선택자 찾기**
+
+코뮤니티에 접속하여 첫 화면에 있는 `카페정보`를 살펴봅시다! 
+
+선택자를 통해 아래 요소들을 검색해주세요.
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7590b009-927e-4d5a-b71a-186f05c6fa01/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7590b009-927e-4d5a-b71a-186f05c6fa01/Untitled.png)
+
+`태그`, `태그#id`, `태그.class`, `태그#id.class` `태그 태그 태그` 중 어떤 방법으로 검색해도 좋습니다.
+
+대신 검색했을 때, **해당 요소 1개만 검색**되도록 해주세요.
+
+ **검색창을 캡처**해서 올려주세요~
+
+---
+
+### 🎯 지난 문제 정답 예시
+
+✅ **지난 문제 : HTML 태그 찾기**
+
+코뮤니티 '가입인사' 게시판에 들어가서 아래의 HTML 태그를 찾아보세요! 
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2efb37b6-1478-4c50-a8ca-cf9686c4b46f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2efb37b6-1478-4c50-a8ca-cf9686c4b46f/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82b3f2cf-cdbf-4877-87e5-5b45073054d3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82b3f2cf-cdbf-4877-87e5-5b45073054d3/Untitled.png)
+
+👉 **정답**
+
+1. div   2. div  3. strong  4. p
